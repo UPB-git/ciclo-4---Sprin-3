@@ -8,7 +8,7 @@ const calcularIMC = async (peso, estatura) => {
       if (peso === 0 || estatura === 0) {
         return { formula: 0 };
       } else {
-        x = parseFloat((peso / estatura ** 2).toFixed(0));
+        x = parseFloat((peso / estatura ** 2).toFixed(2));
         return {
           formula: x
         };

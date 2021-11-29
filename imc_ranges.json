@@ -1,0 +1,6 @@
+[
+  { "etiqueta": "Bajo peso" , "de": 0, "hasta": 18.5 },
+  { "etiqueta": "Normal", "de": 18.6, "hasta": 24.9 },
+  { "etiqueta": "Sobrepeso", "de": 25, "hasta": 29.9 },
+  { "etiqueta": "Obesidad", "de": 30, "hasta": 50 }
+]

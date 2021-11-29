@@ -1,0 +1,6 @@
+{
+  "limite BajoPeso": 18.5,
+  "limite Normal": 24.9,
+  "limite Sobrepeso": 29.9,
+  "limite Obesidad": 50
+}
